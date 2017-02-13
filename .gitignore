@@ -1,0 +1,9 @@
+target/
+.settings
+.project
+target
+*.class
+*.jar
+*.war
+*.gitingore
+*.classpath
